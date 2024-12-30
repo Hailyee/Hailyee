@@ -6,3 +6,4 @@
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Hailyee" alt="GitHub Streak" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hailyee)](https://github.com/anuraghazra/github-readme-stats)
